@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[What's That?]]></title>
+  <title><![CDATA[What's That Then?]]></title>
   <link href="http://socme.github.io/atom.xml" rel="self"/>
   <link href="http://socme.github.io/"/>
-  <updated>2014-12-15T10:37:59+00:00</updated>
+  <updated>2014-12-15T13:43:27+00:00</updated>
   <id>http://socme.github.io/</id>
   <author>
     <name><![CDATA[Tom]]></name>
@@ -18,7 +18,10 @@
     <link href="http://socme.github.io/blog/2014/12/14/hello-world-a-new-beginning/"/>
     <updated>2014-12-14T22:33:59+00:00</updated>
     <id>http://socme.github.io/blog/2014/12/14/hello-world-a-new-beginning</id>
-    <content type="html"><![CDATA[<p>Here we go again with a new project.</p>
+    <content type="html"><![CDATA[<h4>Here we go again with a new project.</h4>
+
+<!--more-->
+
 
 <p>It looks like GitHub Pages and Octopress might be just the thing. I&rsquo;m giving it a go, so fingers crossed I&rsquo;ll be posting again.</p>
 
