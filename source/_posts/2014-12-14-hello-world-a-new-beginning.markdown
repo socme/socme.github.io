@@ -6,8 +6,8 @@ comments: true
 categories:
 ---
 
-Here we go again with a new project.
-
-It looks like GitHub Pages and Octopus might be just the thing. I'm giving it a go, so fingers crossed I'll be posting again.
+####Here we go again with a new project.
+<!--more-->
+It looks like GitHub Pages and Octopress might be just the thing. I'm giving it a go, so fingers crossed I'll be posting again.
 
 Cool so far, found the install quite straight forward not for everyone though.
