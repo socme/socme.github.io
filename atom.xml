@@ -4,7 +4,7 @@
   <title><![CDATA[What's That?]]></title>
   <link href="http://socme.github.io/atom.xml" rel="self"/>
   <link href="http://socme.github.io/"/>
-  <updated>2014-12-15T00:08:08+00:00</updated>
+  <updated>2014-12-15T10:37:59+00:00</updated>
   <id>http://socme.github.io/</id>
   <author>
     <name><![CDATA[Tom]]></name>
@@ -20,7 +20,7 @@
     <id>http://socme.github.io/blog/2014/12/14/hello-world-a-new-beginning</id>
     <content type="html"><![CDATA[<p>Here we go again with a new project.</p>
 
-<p>It looks like GitHub Pages and Octopus might be just the thing. I&rsquo;m giving it a go, so fingers crossed I&rsquo;ll be posting again.</p>
+<p>It looks like GitHub Pages and Octopress might be just the thing. I&rsquo;m giving it a go, so fingers crossed I&rsquo;ll be posting again.</p>
 
 <p>Cool so far, found the install quite straight forward not for everyone though.</p>
 ]]></content>
