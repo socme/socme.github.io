@@ -4,7 +4,7 @@
   <title><![CDATA[What's That Then?]]></title>
   <link href="http://socme.github.io/atom.xml" rel="self"/>
   <link href="http://socme.github.io/"/>
-  <updated>2014-12-15T13:43:27+00:00</updated>
+  <updated>2014-12-15T17:34:50+00:00</updated>
   <id>http://socme.github.io/</id>
   <author>
     <name><![CDATA[Tom]]></name>
@@ -12,6 +12,26 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[That's a Raspberry Pi]]></title>
+    <link href="http://socme.github.io/blog/2014/12/15/thats-a-raspberry-pi/"/>
+    <updated>2014-12-15T15:41:11+00:00</updated>
+    <id>http://socme.github.io/blog/2014/12/15/thats-a-raspberry-pi</id>
+    <content type="html"><![CDATA[<p><img class="left" src="http://socme.github.io/images/Raspberry-Pi-display.jpg" width="160" height="100">The new <a href="http://www.raspberrypi.org/products/model-b-plus/">Raspberry Pi B+</a> has been around for a while and now a <a href="http://www.adafruit.com/products/1601">touch screen</a> is available that looks pretty neat.</p>
+
+<!--more-->
+
+
+<p><br>
+<br>
+I still use my original model B every day as a music player, playing streams from the web. Also I use it regularly to play a couple of text based browser games that I indulge in. On the more serious side I have nodejs installed with an <a href="http://actionherojs.com/">actionhero</a> server up and running.</p>
+
+<p>This 2.8 inch touch screen is from <a href="http://www.adafruit.com/products/1601">Adafruit</a>. Other manufactures and sizes are out there (<a href="https://duckduckgo.com/">duck duck go</a> is your friend).</p>
+
+<p><img src="http://socme.github.io/images/Raspberry-Pi-display.jpg" alt="Pi" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Hello World: A New Beginning]]></title>
