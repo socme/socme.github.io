@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://socme.github.io/blog/2014/12/16/getting-back-to-gaming/</loc>
+    <lastmod>2014-12-16T19:37:05+00:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://socme.github.io/blog/2014/12/16/left-to-my-own-devices/</loc>
+    <lastmod>2014-12-16T15:55:03+00:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>http://socme.github.io/blog/2014/12/15/thats-a-raspberry-pi/</loc>
     <lastmod>2014-12-15T15:41:11+00:00</lastmod>
     <priority>0.8</priority>
@@ -12,13 +22,13 @@
   </url>
   <url>
     <loc>http://socme.github.io/blog/archives/</loc>
-    <lastmod>2014-12-16T12:58:19+00:00</lastmod>
+    <lastmod>2014-12-16T23:35:13+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://socme.github.io/</loc>
-    <lastmod>2014-12-16T12:58:19+00:00</lastmod>
+    <lastmod>2014-12-16T23:35:13+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
