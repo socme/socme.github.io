@@ -4,7 +4,7 @@
   <title><![CDATA[Monkey Poo]]></title>
   <link href="http://socme.github.io/atom.xml" rel="self"/>
   <link href="http://socme.github.io/"/>
-  <updated>2014-12-17T16:09:38+00:00</updated>
+  <updated>2014-12-17T17:11:57+00:00</updated>
   <id>http://socme.github.io/</id>
   <author>
     <name><![CDATA[Tom]]></name>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Getting Back to Gaming]]></title>
-    <link href="http://socme.github.io/blog/2014/12/16/getting-back-to-gaming/"/>
-    <updated>2014-12-16T19:37:05+00:00</updated>
-    <id>http://socme.github.io/blog/2014/12/16/getting-back-to-gaming</id>
+    <link href="http://socme.github.io/blog/2014/12/17/getting-back-to-gaming/"/>
+    <updated>2014-12-17T15:37:05+00:00</updated>
+    <id>http://socme.github.io/blog/2014/12/17/getting-back-to-gaming</id>
     <content type="html"><![CDATA[<p><img class="right" src="http://socme.github.io/images/spaceinvader.png" width="160" height="100"></p>
 
 <p>Getting back to gaming after brain surgery has been a bit weird.</p>
@@ -67,6 +67,22 @@ An enjoyable game that runs well on my oldish computer. Lots of shooting with an
 <p><a href="https://warframe.com/"><img src="http://socme.github.io/images/warframe.jpg"></a></p>
 
 <p><a href="http://www.spaceinvaders.net/">Space Invaders</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Kingfisher Spotted]]></title>
+    <link href="http://socme.github.io/blog/2014/12/16/kingfisher-spotted/"/>
+    <updated>2014-12-16T16:27:40+00:00</updated>
+    <id>http://socme.github.io/blog/2014/12/16/kingfisher-spotted</id>
+    <content type="html"><![CDATA[<p>Caught the turquoise flash of a Kingfisher today.</p>
+
+<!--more-->
+
+
+<p><a href="http://www.rspb.org.uk/discoverandenjoynature/discoverandlearn/birdguide/name/k/kingfisher/index.aspx?utm_source=bing&utm_medium=cpc&utm_campaign=Endangered%20Birds&utm_term=kingfisher"><img class="right" src="http://socme.github.io/images/kingfisher.jpg"></a></p>
+
+<p>I was lucky enough to see a Kingfisher flying up the river today, they don&rsquo;t hang about though so it was only a glimpse really. That&rsquo;s only the second I&rsquo;ve seen in the village this year, haven&rsquo;t seen one here for years.</p>
 ]]></content>
   </entry>
   
