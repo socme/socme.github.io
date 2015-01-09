@@ -4,7 +4,7 @@
   <title><![CDATA[Monkey Poo]]></title>
   <link href="http://socme.github.io/atom.xml" rel="self"/>
   <link href="http://socme.github.io/"/>
-  <updated>2014-12-22T17:27:39+00:00</updated>
+  <updated>2015-01-09T13:03:08+00:00</updated>
   <id>http://socme.github.io/</id>
   <author>
     <name><![CDATA[Tom]]></name>
@@ -12,6 +12,24 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Way to Go]]></title>
+    <link href="http://socme.github.io/blog/2015/01/09/way-to-go/"/>
+    <updated>2015-01-09T11:10:02+00:00</updated>
+    <id>http://socme.github.io/blog/2015/01/09/way-to-go</id>
+    <content type="html"><![CDATA[<p>Well I&rsquo;ve been mucking about with this blogging system for awhile now so it&rsquo;s time to decide which way to go, I&rsquo;m liking it to find out why &hellip;</p>
+
+<!--more-->
+
+
+<p>As a Linux user I found the creation of github pages has a familiar work flow, edit, local preview, git commit/push and we&rsquo;re done. Using the Atom editor to create the markdown content then using the built in preview feature helps speed up the creation of pages. Octopress provides a local preview server so we can see the final result before committing and pushing to the web via the command line.</p>
+
+<p>As a Windows user github has the usual installer which provides a GUI and console allowing access to your github account from the desktop. Unfortunately Octopress doesn&rsquo;t support Windows, use Jenkyll it works, overall using Windows is somewhat awkward. As most of my projects are Linux based (Windows is my gaming OS) I&rsquo;m not so concerned that Windows is less supported than I would like.</p>
+
+<p>So I&rsquo;m happy to continue with GitHub Pages and Octopress, for the amount of posting I do (very little) it seems a natural choice. The future might see the Diaspora project coming to maturity if so that could be the way to go, for now though I&rsquo;m happy staying here.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Hair Cutting for Growth?]]></title>
