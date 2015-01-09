@@ -1,0 +1,14 @@
+---
+layout: post
+title: "Way to Go"
+date: 2015-01-09 11:10:02 +0000
+comments: true
+categories:
+---
+Well I've been mucking about with this blogging system for awhile now so it's time to decide which way to go, I'm liking it to find out why ...
+<!--more-->
+As a Linux user I found the creation of github pages has a familiar work flow, edit, local preview, git commit/push and we're done. Using the Atom editor to create the markdown content then using the built in preview feature helps speed up the creation of pages. Octopress provides a local preview server so we can see the final result before committing and pushing to the web via the command line.
+
+As a Windows user github has the usual installer which provides a GUI and console allowing access to your github account from the desktop. Unfortunately Octopress doesn't support Windows, use Jenkyll it works, overall using Windows is somewhat awkward. As most of my projects are Linux based (Windows is my gaming OS) I'm not so concerned that Windows is less supported than I would like.
+
+So I'm happy to continue with GitHub Pages and Octopress, for the amount of posting I do (very little) it seems a natural choice. The future might see the Diaspora project coming to maturity if so that could be the way to go, for now though I'm happy staying here.
