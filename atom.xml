@@ -4,7 +4,7 @@
   <title><![CDATA[Monkey Poo]]></title>
   <link href="http://socme.github.io/atom.xml" rel="self"/>
   <link href="http://socme.github.io/"/>
-  <updated>2015-01-20T13:38:41+00:00</updated>
+  <updated>2015-02-05T13:11:42+00:00</updated>
   <id>http://socme.github.io/</id>
   <author>
     <name><![CDATA[Tom]]></name>
@@ -12,6 +12,50 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[A New Roguelike Game]]></title>
+    <link href="http://socme.github.io/blog/2015/02/05/a-new-roguelike-game/"/>
+    <updated>2015-02-05T12:02:55+00:00</updated>
+    <id>http://socme.github.io/blog/2015/02/05/a-new-roguelike-game</id>
+    <content type="html"><![CDATA[<p><img class="right" src="http://socme.github.io/images/spaceinvader.png" width="160" height="100"></p>
+
+<p>Crawl - a Roguelike dungeon exploration game for Linux and Windows.</p>
+
+<!--more-->
+
+
+<p><a href="http://crawl.develz.org/wordpress/">Dungeon Crawl: Stone Soup</a> is a fun game in the grand tradition of games like Rogue, Hack, and Moria. Your objective is to travel deep into a subterranean cave complex and retrieve the Orb of Zot, which is guarded by many horrible and hideous creatures.</p>
+
+<p>I first played <a href="http://en.wikipedia.org/wiki/Rogue_%28video_game%29">Rogue</a> on a Commodore 16 in the mid 80&rsquo;s and loved it, in fact it wasn&rsquo;t long before the whole family was addicted. Over the years I&rsquo;ve played many versions of the original, this is one of the best.</p>
+
+<h4><a href="http://en.wikipedia.org/wiki/Roguelike">Roguelike Games</a></h4>
+
+<p><a href="http://en.wikipedia.org/wiki/Roguelike"><img src="http://socme.github.io/images/epyxrogue.jpg"></a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Evolution a Game for Mobiles]]></title>
+    <link href="http://socme.github.io/blog/2015/02/04/utopia-plus-plus/"/>
+    <updated>2015-02-04T11:27:12+00:00</updated>
+    <id>http://socme.github.io/blog/2015/02/04/utopia-plus-plus</id>
+    <content type="html"><![CDATA[<p><img class="right" src="http://socme.github.io/images/spaceinvader.png" width="160" height="100"></p>
+
+<p>Evolution: Battle for Utopia, gets a thumbs up.</p>
+
+<!--more-->
+
+
+<p><a href="http://evo.my.com/en/#0">Evolution: Battle for Utopia</a> from my.com is an action, RPG with strategy elements. The action sections are fast and furious battles against a variety of NPC opponents. You&rsquo;ll need to manage your resources wisely especially if your playing for free. Unless you spend money on this game be prepared for slow progress. There is some PVP but it&rsquo;s not something I&rsquo;m very fond of so haven&rsquo;t tried it as yet.</p>
+
+<p>Great graphics, fun game-play, a nice variety of side-games and cool weapons this game has a lot going for it. Been playing this free for two or three weeks now and still coming back for more, so it can&rsquo;t be too bad.</p>
+
+<h4><a href="http://evo.my.com/en/#0">Evolution: Battle for Utopia</a></h4>
+
+<p><a href="http://evo.my.com/en/#0"><img src="http://socme.github.io/images/utopia.png"></a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[C9 an Action RPG]]></title>
