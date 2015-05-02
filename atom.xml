@@ -4,7 +4,7 @@
   <title><![CDATA[Monkey Poo]]></title>
   <link href="http://socme.github.io/atom.xml" rel="self"/>
   <link href="http://socme.github.io/"/>
-  <updated>2015-02-05T13:11:42+00:00</updated>
+  <updated>2015-05-02T17:43:00+01:00</updated>
   <id>http://socme.github.io/</id>
   <author>
     <name><![CDATA[Tom]]></name>
@@ -12,6 +12,76 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[My New Computer]]></title>
+    <link href="http://socme.github.io/blog/2015/04/30/my-new-computer/"/>
+    <updated>2015-04-30T13:16:00+01:00</updated>
+    <id>http://socme.github.io/blog/2015/04/30/my-new-computer</id>
+    <content type="html"><![CDATA[<p><img class="right" src="http://socme.github.io/images/fractaldesigncase.jpeg" width="120" height="180"></p>
+
+<p>A long time coming but now built and running both Windows 7 for gaming and openSUSE for every thing else.</p>
+
+<!--more-->
+
+
+<p>Had a lot of fun putting this box together. As always quietness is a priority for me and I&rsquo;m pleased to say this is a very quiet machine.</p>
+
+<p>There have been many improvements in hardware since I built my last computer a few years ago. At last liquid cooling is affordable, this is a much quieter option than the stock CPU cooler. Also modern power supplies and graphics cards don&rsquo;t spin their fans until they&rsquo;re needed, making a noticeable reduction in noise levels. Rumbling Hard Disk Drives are replaced by silent Solid State Drives. Put all this in a case fitted with dense, sound-absorbing material and you have a whisper quiet computer. Just what I need.</p>
+
+<p>With just one SSD fitted, Windows 7 was installed from a USB drive. Fast and painless. After testing the system using the utilities that came with the hardware. A second smaller SSD was fitted and openSUSE Linux was installed. As Windows cant boot a second drive with the newer UEFI bios the boot order must be changed to the second SSD letting Linux chain load Windows.</p>
+
+<p>So now I enjoy fast start ups, playing games at high graphic settings, optical audio out, responsive desktops and all that &hellip; nice!</p>
+
+<table>
+<thead>
+<tr>
+<th style="text-align:left;"> Components     </th>
+<th style="text-align:left;"> :              </th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;"> CPU            </td>
+<td style="text-align:left;"> AMD FX-8 8350  </td>
+</tr>
+<tr>
+<td style="text-align:left;"> MOBO           </td>
+<td style="text-align:left;"> ASUS SABERTOOTH 990FX R2.0  </td>
+</tr>
+<tr>
+<td style="text-align:left;"> GPU            </td>
+<td style="text-align:left;"> ASUS GTX 960 STRIX </td>
+</tr>
+<tr>
+<td style="text-align:left;"> RAM            </td>
+<td style="text-align:left;"> KINGSTON HyperX Fury 16GB (2X8GB) 1866MHz DDR3  </td>
+</tr>
+<tr>
+<td style="text-align:left;"> SSD            </td>
+<td style="text-align:left;"> CRUCIAL MX100 512GB Windows 7 installed  </td>
+</tr>
+<tr>
+<td style="text-align:left;"> SSD            </td>
+<td style="text-align:left;"> SANDISK 128GB openSUSE 13.2 installed  </td>
+</tr>
+<tr>
+<td style="text-align:left;"> PSU            </td>
+<td style="text-align:left;"> XFX XXX EDITION PSU 850 WATT  </td>
+</tr>
+<tr>
+<td style="text-align:left;"> COOLER         </td>
+<td style="text-align:left;"> NZXT KRAKEN X41  </td>
+</tr>
+<tr>
+<td style="text-align:left;"> CASE           </td>
+<td style="text-align:left;"> FRACTAL DESIGN R5 Black  </td>
+</tr>
+</tbody>
+</table>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[A New Roguelike Game]]></title>
