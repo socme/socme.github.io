@@ -4,7 +4,7 @@
   <title><![CDATA[Monkey Poo]]></title>
   <link href="http://socme.github.io/atom.xml" rel="self"/>
   <link href="http://socme.github.io/"/>
-  <updated>2015-05-09T13:37:02+01:00</updated>
+  <updated>2015-05-09T13:41:03+01:00</updated>
   <id>http://socme.github.io/</id>
   <author>
     <name><![CDATA[Tom]]></name>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[First Swift Seen]]></title>
-    <link href="http://socme.github.io/blog/2015/05/09/swift-seen/"/>
-    <updated>2015-05-09T13:10:06+01:00</updated>
-    <id>http://socme.github.io/blog/2015/05/09/swift-seen</id>
+    <link href="http://socme.github.io/blog/2015/05/06/swift-seen/"/>
+    <updated>2015-05-06T13:10:06+01:00</updated>
+    <id>http://socme.github.io/blog/2015/05/06/swift-seen</id>
     <content type="html"><![CDATA[<p><img class="right" src="http://socme.github.io/images/swift160x100.jpg" width="160" height="90"></p>
 
 <p>A Swift shows up and examines the nesting site above my flat.</p>
