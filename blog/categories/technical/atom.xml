@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Technical | Monkey Poo]]></title>
+  <link href="http://socme.github.io/blog/categories/technical/atom.xml" rel="self"/>
+  <link href="http://socme.github.io/"/>
+  <updated>2015-05-11T18:09:15+01:00</updated>
+  <id>http://socme.github.io/</id>
+  <author>
+    <name><![CDATA[Tom]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Utilities for Windows]]></title>
+    <link href="http://socme.github.io/blog/2015/05/09/utilities-for-windows/"/>
+    <updated>2015-05-09T13:57:13+01:00</updated>
+    <id>http://socme.github.io/blog/2015/05/09/utilities-for-windows</id>
+    <content type="html"><![CDATA[<p><img class="right" src="/images/windowsmodern.png" width="100" height="100">
+Here&rsquo;s a few Windows programs I find indispensable.</p>
+
+<!--more-->
+
+
+<p>First these are my basic disc/ISO tools.</p>
+
+<table>
+<thead>
+<tr>
+<th style="text-align:left;">  </th>
+<th style="text-align:left;">  </th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;"> ISO2Disc </td>
+<td style="text-align:left;"> <a href="http://www.top-password.com/iso2disc.html">http://www.top-password.com/iso2disc.html</a> </td>
+</tr>
+<tr>
+<td style="text-align:left;">  </td>
+<td style="text-align:left;"> This is the best burner I&rsquo;ve found. It burns bootable ISO&rsquo;s to both CD/DVDs and USB flash drives (UFD). Excellent for making bootable <strong>Windows Installation</strong> USB drives. </td>
+</tr>
+<tr>
+<td style="text-align:left;"> <br> </td>
+<td style="text-align:left;">  </td>
+</tr>
+<tr>
+<td style="text-align:left;"> WinMD5 </td>
+<td style="text-align:left;"> <a href="http://winmd5.com/">http://winmd5.com/</a> </td>
+</tr>
+<tr>
+<td style="text-align:left;">  </td>
+<td style="text-align:left;"> Nice simple MD5 calculator and checker.  No installation is required, just run the exe file. </td>
+</tr>
+<tr>
+<td style="text-align:left;"> <br> </td>
+<td style="text-align:left;">  </td>
+</tr>
+<tr>
+<td style="text-align:left;"> InfraRecorder</td>
+<td style="text-align:left;"> <a href="http://infrarecorder.org/">http://infrarecorder.org/</a> </td>
+</tr>
+<tr>
+<td style="text-align:left;">  </td>
+<td style="text-align:left;"> A useful CD/DVD burner with some neat features ie. it can report which formats the drive can read and write. </td>
+</tr>
+<tr>
+<td style="text-align:left;"> <br> </td>
+<td style="text-align:left;">  </td>
+</tr>
+<tr>
+<td style="text-align:left;"> ImageUSB </td>
+<td style="text-align:left;"> <a href="http://www.osforensics.com/tools/write-usb-images.html">http://www.osforensics.com/tools/write-usb-images.html</a> </td>
+</tr>
+<tr>
+<td style="text-align:left;">  </td>
+<td style="text-align:left;"> A useful tool with the ability to format or zero a USB drive or to create an ISO from a USB drive. </td>
+</tr>
+<tr>
+<td style="text-align:left;"> <br> </td>
+<td style="text-align:left;">  </td>
+</tr>
+<tr>
+<td style="text-align:left;"> EasyBCD </td>
+<td style="text-align:left;"> <a href="https://neosmart.net/EasyBCD/">https://neosmart.net/EasyBCD/</a> </td>
+</tr>
+<tr>
+<td style="text-align:left;">  </td>
+<td style="text-align:left;"> For setting up multi boot systems from Windows. Is of limited use now as Windows on a <strong>UEFI</strong> PC can&rsquo;t boot linux, see the following for an explanation (post #4). </td>
+</tr>
+<tr>
+<td style="text-align:left;">  </td>
+<td style="text-align:left;"> <a href="https://neosmart.net/forums/threads/terry60-windows-8-basic-problem-considerations.13514/#post-82798">https://neosmart.net/forums/threads/terry60-windows-8-basic-problem-considerations.13514/#post-82798</a> </td>
+</tr>
+</tbody>
+</table>
+
+
+<p><br>
+For the Raspberry Pi I use these:</p>
+
+<table>
+<thead>
+<tr>
+<th style="text-align:left;">  </th>
+<th style="text-align:left;">  </th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;"> PuTTY </td>
+<td style="text-align:left;"> <a href="http://www.putty.org/">http://www.putty.org/</a> </td>
+</tr>
+<tr>
+<td style="text-align:left;">  </td>
+<td style="text-align:left;"> PuTTY is an SSH and telnet client. Connect and control the Pi from another computer </td>
+</tr>
+<tr>
+<td style="text-align:left;"> <br> </td>
+<td style="text-align:left;">  </td>
+</tr>
+<tr>
+<td style="text-align:left;"> Auremo </td>
+<td style="text-align:left;"> <a href="http://auremo.codeplex.com/">http://auremo.codeplex.com/</a> </td>
+</tr>
+<tr>
+<td style="text-align:left;">  </td>
+<td style="text-align:left;"> Auremo is a graphical client for the Music Player Daemon (MPD). Control the Pi&rsquo;s music player from a remote computer, makes adding streams and playlists a breeze </td>
+</tr>
+</tbody>
+</table>
+
+]]></content>
+  </entry>
+  
+</feed>
