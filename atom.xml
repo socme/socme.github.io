@@ -4,7 +4,7 @@
   <title><![CDATA[Monkey Poo]]></title>
   <link href="http://socme.github.io/atom.xml" rel="self"/>
   <link href="http://socme.github.io/"/>
-  <updated>2015-05-11T18:09:15+01:00</updated>
+  <updated>2015-05-30T14:48:34+01:00</updated>
   <id>http://socme.github.io/</id>
   <author>
     <name><![CDATA[Tom]]></name>
@@ -12,6 +12,50 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Remotely Accessing My Raspberry Pi]]></title>
+    <link href="http://socme.github.io/blog/2015/05/30/remote-accessing-my-raspberry-pi/"/>
+    <updated>2015-05-30T11:32:11+01:00</updated>
+    <id>http://socme.github.io/blog/2015/05/30/remote-accessing-my-raspberry-pi</id>
+    <content type="html"><![CDATA[<p><img class="right" src="http://socme.github.io/images/logo-black-pi.png" width="100" height="100">
+Here&rsquo;s a few programs I use to enable remote control/access of my Raspberry Pi.</p>
+
+<!--more-->
+
+
+<p><strong>NOTE:</strong> My Pi is running the Raspian OS, a modified Debian Weezy.</p>
+
+<hr />
+
+<p><strong>SSH</strong> </br>
+My Pi starts a <a href="http://www.openssh.com/index.html">SSH (Secure SHell)</a> server at bootup by default. I connect to this server using <a href="http://www.putty.org">PuTTY</a> a SSH client freely available for most OS/devices. PuTTY provides a command line console where you remotely login to the Pi and issue commands.</p>
+
+<hr />
+
+<p><strong>VNC</strong> </br>
+I&rsquo;m using <a href="http://www.tightvnc.com/">TightVNC</a> to remotely access the Pi&rsquo;s Desktop. See <a href="https://www.raspberrypi.org/documentation/remote-access/vnc/README.md">VNC (Virtual Network Computing)</a>. Once the server is setup on the Pi you&rsquo;ll be able to connect to it with a VNC-Viewer, which are freely available for most OS/devices.</p>
+
+<hr />
+
+<p><strong>SFTP</strong> </br>
+The best free FTP client is <a href="https://filezilla-project.org/download.php">FileZilla</a>. I use this if I need to copy many files to the Pi.</p>
+
+<hr />
+
+<p><strong>Samba</strong> </br>
+<a href="https://www.samba.org/">Samba</a> provideds secure, stable and fast file services, amongst other things. Installing the server on the Pi is quite straight forward, I used <a href="http://www.howtogeek.com/139433/how-to-turn-a-raspberry-pi-into-a-low-power-network-storage-device/">this article at HowToGeek</a> as a reference.</p>
+
+<p>I used a 8GB UFD for my ../shares/ folder. I had problems getting permissions right for ../shares/. A solution was to clean format the UFD to ext4 using <a href="http://gparted.sourceforge.net/">Gparted</a> then create the shares folder and set the correct permissions all on another linux system.</p>
+
+<p>I can now access the RASPBERRYPI shares folder from either Windows or Linux.</p>
+
+<hr />
+
+<p><a href="https://www.raspberrypi.org/documentation/remote-access/README.md">Raspbery Pi Documentation</a></br>
+<a href="http://www.howtogeek.com/139433/how-to-turn-a-raspberry-pi-into-a-low-power-network-storage-device/">Samba on HowToGeek</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Utilities for Windows]]></title>

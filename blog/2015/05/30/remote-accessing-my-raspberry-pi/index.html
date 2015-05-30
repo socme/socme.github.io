@@ -5,11 +5,11 @@
 <!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
 <head>
   <meta charset="utf-8">
-  <title>First Swift Seen - Monkey Poo</title>
+  <title>Remotely Accessing My Raspberry Pi - Monkey Poo</title>
   <meta name="author" content="Tom">
 
   
-  <meta name="description" content="A Swift shows up and examines the nesting site above my flat. This is the first Swift I&rsquo;ve seen this year. For years now a pair have been &hellip;">
+  <meta name="description" content="Here&rsquo;s a few programs I use to enable remote control/access of my Raspberry Pi. NOTE: My Pi is running the Raspian OS, a modified Debian Weezy &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -18,7 +18,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   
-  <link rel="canonical" href="http://socme.github.io/blog/2015/05/06/swift-seen">
+  <link rel="canonical" href="http://socme.github.io/blog/2015/05/30/remote-accessing-my-raspberry-pi">
   <link href="/favicon.png" rel="icon">
   <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
   <link href="/atom.xml" rel="alternate" title="Monkey Poo" type="application/atom+xml">
@@ -68,7 +68,7 @@
   
   <header>
     
-      <h1 class="entry-title">First Swift Seen</h1>
+      <h1 class="entry-title">Remotely Accessing My Raspberry Pi</h1>
     
     
       <p class="meta">
@@ -77,23 +77,49 @@
 
 
 
-<time class='entry-date' datetime='2015-05-06T13:10:06+01:00'><span class='date'><span class='date-month'>May</span> <span class='date-day'>6</span><span class='date-suffix'>th</span>, <span class='date-year'>2015</span></span> <span class='time'>1:10 pm</span></time>
+<time class='entry-date' datetime='2015-05-30T11:32:11+01:00'><span class='date'><span class='date-month'>May</span> <span class='date-day'>30</span><span class='date-suffix'>th</span>, <span class='date-year'>2015</span></span> <span class='time'>11:32 am</span></time>
         
       </p>
     
   </header>
 
 
-<div class="entry-content"><p><img class="right" src="/images/swift160x100.jpg" width="160" height="90"></p>
-
-<p>A Swift shows up and examines the nesting site above my flat.</p>
+<div class="entry-content"><p><img class="right" src="/images/logo-black-pi.png" width="100" height="100">
+Here&rsquo;s a few programs I use to enable remote control/access of my Raspberry Pi.</p>
 
 <!--more-->
 
 
-<p>This is the first Swift I&rsquo;ve seen this year. For years now a pair have been nesting in the eaves above my flat, I get great views of these beautiful birds.</p>
+<p><strong>NOTE:</strong> My Pi is running the Raspian OS, a modified Debian Weezy.</p>
 
-<p>It&rsquo;s been three days now and I haven&rsquo;t seen it or any others since!</p>
+<hr />
+
+<p><strong>SSH</strong> </br>
+My Pi starts a <a href="http://www.openssh.com/index.html">SSH (Secure SHell)</a> server at bootup by default. I connect to this server using <a href="http://www.putty.org">PuTTY</a> a SSH client freely available for most OS/devices. PuTTY provides a command line console where you remotely login to the Pi and issue commands.</p>
+
+<hr />
+
+<p><strong>VNC</strong> </br>
+I&rsquo;m using <a href="http://www.tightvnc.com/">TightVNC</a> to remotely access the Pi&rsquo;s Desktop. See <a href="https://www.raspberrypi.org/documentation/remote-access/vnc/README.md">VNC (Virtual Network Computing)</a>. Once the server is setup on the Pi you&rsquo;ll be able to connect to it with a VNC-Viewer, which are freely available for most OS/devices.</p>
+
+<hr />
+
+<p><strong>SFTP</strong> </br>
+The best free FTP client is <a href="https://filezilla-project.org/download.php">FileZilla</a>. I use this if I need to copy many files to the Pi.</p>
+
+<hr />
+
+<p><strong>Samba</strong> </br>
+<a href="https://www.samba.org/">Samba</a> provideds secure, stable and fast file services, amongst other things. Installing the server on the Pi is quite straight forward, I used <a href="http://www.howtogeek.com/139433/how-to-turn-a-raspberry-pi-into-a-low-power-network-storage-device/">this article at HowToGeek</a> as a reference.</p>
+
+<p>I used a 8GB UFD for my ../shares/ folder. I had problems getting permissions right for ../shares/. A solution was to clean format the UFD to ext4 using <a href="http://gparted.sourceforge.net/">Gparted</a> then create the shares folder and set the correct permissions all on another linux system.</p>
+
+<p>I can now access the RASPBERRYPI shares folder from either Windows or Linux.</p>
+
+<hr />
+
+<p><a href="https://www.raspberrypi.org/documentation/remote-access/README.md">Raspbery Pi Documentation</a></br>
+<a href="http://www.howtogeek.com/139433/how-to-turn-a-raspberry-pi-into-a-low-power-network-storage-device/">Samba on HowToGeek</a></p>
 </div>
 
 
@@ -109,12 +135,12 @@
 
 
 
-<time class='entry-date' datetime='2015-05-06T13:10:06+01:00'><span class='date'><span class='date-month'>May</span> <span class='date-day'>6</span><span class='date-suffix'>th</span>, <span class='date-year'>2015</span></span> <span class='time'>1:10 pm</span></time>
+<time class='entry-date' datetime='2015-05-30T11:32:11+01:00'><span class='date'><span class='date-month'>May</span> <span class='date-day'>30</span><span class='date-suffix'>th</span>, <span class='date-year'>2015</span></span> <span class='time'>11:32 am</span></time>
       
 
 <span class="categories">
   
-    <a class='category' href='/blog/categories/nature/'>nature</a>
+    <a class='category' href='/blog/categories/technical/'>technical</a>
   
 </span>
 
@@ -123,7 +149,7 @@
     
       <div class="sharing">
   
-  <a href="//twitter.com/share" class="twitter-share-button" data-url="http://socme.github.io/blog/2015/05/06/swift-seen/" data-via="" data-counturl="http://socme.github.io/blog/2015/05/06/swift-seen/" >Tweet</a>
+  <a href="//twitter.com/share" class="twitter-share-button" data-url="http://socme.github.io/blog/2015/05/30/remote-accessing-my-raspberry-pi/" data-via="" data-counturl="http://socme.github.io/blog/2015/05/30/remote-accessing-my-raspberry-pi/" >Tweet</a>
   
   
   
@@ -132,10 +158,8 @@
     
     <p class="meta">
       
-        <a class="basic-alignment left" href="/blog/2015/04/30/my-new-computer/" title="Previous Post: My New Computer">&laquo; My New Computer</a>
+        <a class="basic-alignment left" href="/blog/2015/05/09/utilities-for-windows/" title="Previous Post: Utilities for Windows">&laquo; Utilities for Windows</a>
       
-      
-        <a class="basic-alignment right" href="/blog/2015/05/09/utilities-for-windows/" title="Next Post: Utilities for Windows">Utilities for Windows &raquo;</a>
       
     </p>
   </footer>
