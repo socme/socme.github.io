@@ -4,7 +4,7 @@
   <title><![CDATA[Monkey Poo]]></title>
   <link href="http://socme.github.io/atom.xml" rel="self"/>
   <link href="http://socme.github.io/"/>
-  <updated>2015-05-30T14:48:34+01:00</updated>
+  <updated>2015-06-01T11:24:44+01:00</updated>
   <id>http://socme.github.io/</id>
   <author>
     <name><![CDATA[Tom]]></name>
@@ -49,6 +49,15 @@ The best free FTP client is <a href="https://filezilla-project.org/download.php"
 <p>I used a 8GB UFD for my ../shares/ folder. I had problems getting permissions right for ../shares/. A solution was to clean format the UFD to ext4 using <a href="http://gparted.sourceforge.net/">Gparted</a> then create the shares folder and set the correct permissions all on another linux system.</p>
 
 <p>I can now access the RASPBERRYPI shares folder from either Windows or Linux.</p>
+
+<hr />
+
+<p><strong>MPD</strong> </br>
+My systems <a href="http://www.musicpd.org/">Music Player Daemon</a> (server) starts on bootup, I use it mainly for playing Radio Streams, see <a href="http://tunein.com">TuneIn</a>. On the Pi I use ncmpc to connect to MPD locally, this can also be achieved remotely using PuTTY. A better solution is to remotely use a Music Player Client written for the OS in question.</p>
+
+<p>So, for <strong>Windows</strong> I use <a href="http://auremo.codeplex.com/">Auremo</a>. A solid client that handles Streams and Playlists well.</p>
+
+<p>For <strong>Linux</strong> I use <a href="http://gmpclient.org/">Gnome Music Player Client</a>. A Good client with lots of features via plugins.</p>
 
 <hr />
 
