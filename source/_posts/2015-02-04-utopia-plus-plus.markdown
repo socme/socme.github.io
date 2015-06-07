@@ -2,8 +2,8 @@
 layout: post
 title: "Evolution a game for mobiles"
 date: 2015-02-04 11:27:12 +0000
-comments: true
-categories:
+comments: false
+categories: gaming
 ---
 
 {% img right /images/spaceinvader.png 160 100 %}

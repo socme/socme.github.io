@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "First Swift Seen"
+title: "First Swift Spotted"
 date: 2015-05-06 13:10:06 +0100
 comments: true
 categories: nature

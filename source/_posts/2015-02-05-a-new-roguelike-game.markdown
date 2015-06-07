@@ -2,8 +2,8 @@
 layout: post
 title: "A New Roguelike Game"
 date: 2015-02-05 12:02:55 +0000
-comments: true
-categories:
+comments: false
+categories: gaming
 ---
 
 {% img right /images/spaceinvader.png 160 100 %}

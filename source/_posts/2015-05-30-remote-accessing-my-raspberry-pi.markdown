@@ -32,5 +32,13 @@ I used a 8GB UFD for my ../shares/ folder. I had problems getting permissions ri
 I can now access the RASPBERRYPI shares folder from either Windows or Linux.
 
 ---
+**MPD** </br>
+My systems [Music Player Daemon](http://www.musicpd.org/) (server) starts on bootup, I use it mainly for playing Radio Streams, see [TuneIn](http://tunein.com). On the Pi I use [ncmpc](http://www.musicpd.org/clients/ncmpc/) to connect to MPD locally, this can also be achieved remotely using PuTTY. A better solution is to remotely use a Music Player Client written for the OS in question.
+
+So, for **Windows** I use [Auremo](http://auremo.codeplex.com/). A solid client that handles Streams and Playlists well.
+
+For **Linux** I use [Gnome Music Player Client](http://gmpclient.org/). A Good client with lots of features via plugins.
+
+---
 [Raspbery Pi Documentation](https://www.raspberrypi.org/documentation/remote-access/README.md)</br>
 [Samba on HowToGeek](http://www.howtogeek.com/139433/how-to-turn-a-raspberry-pi-into-a-low-power-network-storage-device/)

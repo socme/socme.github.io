@@ -2,8 +2,8 @@
 layout: post
 title: "C9 an Action RPG"
 date: 2015-01-19 12:56:32 +0000
-comments: true
-categories:
+comments: false
+categories: gaming
 ---
 
 {% img right /images/spaceinvader.png 160 100 %}
