@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Dev | Monkey Poo]]></title>
+  <link href="http://socme.github.io/blog/categories/dev/atom.xml" rel="self"/>
+  <link href="http://socme.github.io/"/>
+  <updated>2015-09-10T15:22:54+01:00</updated>
+  <id>http://socme.github.io/</id>
+  <author>
+    <name><![CDATA[Tom]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Project Wonky Cog]]></title>
+    <link href="http://socme.github.io/blog/2015/09/10/project-wonky-cog/"/>
+    <updated>2015-09-10T13:27:08+01:00</updated>
+    <id>http://socme.github.io/blog/2015/09/10/project-wonky-cog</id>
+    <content type="html"><![CDATA[<p><img class="right" src="/images/aurelia-logo.png" width="160" height="100">
+Time to start a new project, it&rsquo;s a mash-up aimed directly at me.</p>
+
+<!--more-->
+
+
+<p>Called Wonky Cog because as the only user I shan&rsquo;t be to bothered if things get out of balance or ugly. Hopefully this will give me more creative freedom, a place to try out new ideas. I want somewhere I can add and remove web components, and the rest, easily. The site will be public facing but password protected.</p>
+
+<p>So what framework/s to use for this single page app (SAP) that will use <a href="http://www.firebase.io">Firebase</a> as a back-end. The obvious choice it seemed to me was the <a href="http://www.emberjs.com">Ember Framework</a> but while looking for tutorials I did discover the <a href="http://www.aurelia.io">Aurelia Framework</a>. Aurelia is still in alpha, going beta in four weeks. What I like most is it&rsquo;s use of ES6/7 scripting via the <a href="http://www.babeljs.io">Babel</a> transpiler, btw the other build tools are great too. I won&rsquo;t go into much detail here other than to say it&rsquo;s easy to get started, the code is very readable and the build system is easily understood.</p>
+
+<p>In conclusion, <a href="http://www.aurelia.io">Aurelia</a> (with <a href="http://blog.getbootstrap.com/2015/08/19/bootstrap-4-alpha/">Bootstrap 4</a>) is the way I will go. Wonky Cog has already been useful, it&rsquo;s given me the opportunity to learn ES2015 and beyond.</p>
+
+<h4><a href="http://www.aurelia.io">Aurelia Framework</a></h4>
+
+<p><a href="http://www.aurelia.io"><img src="/images/aurelia-logo.png"></a></p>
+]]></content>
+  </entry>
+  
+</feed>
